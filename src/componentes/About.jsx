@@ -13,7 +13,7 @@ export default function About() {
             <img className='m-auto w-[60%] rounded-[10px] my-[2%]' src={Foto} alt="foto"/>
         </div>
         
-        <div className="col-span-1 text-white rounded-[10px] bg-violet-600 text-center justify-center  align-center m-auto w-[80%] h-[50%] "> 
+        <div className="col-span-1 text-white rounded-[10px] bg-violet-400 text-center justify-center  align-center m-auto w-[80%] h-[50%] "> 
           <div className="">
             <h2 className='p-1 text-4xl'>Paula A. Castro</h2>
             <p className='p-[10%] text-[75%]'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores officiis nihil vitae architecto illo illum, accusantium iusto dicta provident veritatis ipsam rerum voluptate, harum qui praesentium, quae laborum autem facere?

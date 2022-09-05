@@ -4,7 +4,7 @@ import VideoHero from '../media/video2.mp4';
 
 export default function Hero() {
   return (
-    <div className="w-ful h-screen bg-black text-white flex items-center justify-center relative">
+    <div className="w-full h-screen bg-black text-white flex items-center justify-center relative">
       
     <video 
     id='video'

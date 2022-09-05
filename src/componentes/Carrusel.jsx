@@ -13,6 +13,7 @@ import htmlImagen from "../ImagenesPort/Captura de pantalla 2022-08-03 145514.pn
 import cssImagen from "../ImagenesPort/Captura de pantalla 2022-08-03 145200.png"
 import disney from "../ImagenesPort/1.png"
 import viajes from "../ImagenesPort/2.png"
+import cafe from "../ImagenesPort/3.png"
 
 export default function Carrusel() {
 
@@ -26,7 +27,7 @@ export default function Carrusel() {
             code:""
         },
         {
-            imagen:cssImagen,
+            imagen:cafe,
             titulo:"Titulo 2",
             tituloChiquito:"chiquitin2",
             info:"lorem ipsum dolor sit amet, consectetur adipiscing el aspect, ",

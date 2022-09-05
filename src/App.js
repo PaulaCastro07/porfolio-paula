@@ -5,7 +5,7 @@ import Projects from "./componentes/Projects";
 
 function App() {
   return (
-    <div className=" w-full h-full font-monserrat-bold">
+    <div className=" w-full h-full font-monserrat-bold ">
       {/* Navbar */}
       <Navbar/>
 

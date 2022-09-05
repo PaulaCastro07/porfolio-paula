@@ -3,7 +3,7 @@ import{IoLogoWhatsapp} from "react-icons/io";
 
 export default function Navbar() {
   return (
-    <div className='w-full h-[80px] fixed z-20'>
+    <div className='w-full h-[80px] fixed z-20 bg-violet-400/80'>
        <div className='w-[90%] h-full m-auto flex justify-between items-center'>
         <div className='w-14 h-14 bg-violet-500 rounded-full text-white flex items-center justify-center font-light text-xl  hover:scale-110 duration-30 drop-shadow-xl hover:bg-violet-700'>
         <a href="#Logo">P | C</a>

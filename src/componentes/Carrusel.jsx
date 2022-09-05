@@ -10,7 +10,6 @@ import "swiper/css/navigation";
 // import required modules
 import { Pagination, Navigation, Autoplay} from "swiper";
 import htmlImagen from "../ImagenesPort/Captura de pantalla 2022-08-03 145514.png"
-import cssImagen from "../ImagenesPort/Captura de pantalla 2022-08-03 145200.png"
 import disney from "../ImagenesPort/1.png"
 import viajes from "../ImagenesPort/2.png"
 import cafe from "../ImagenesPort/3.png"

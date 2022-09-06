@@ -24,7 +24,7 @@ export default function About() {
           </div>
           <div>
             <div>
-              <h3 className="text-2xl">Mis Tecnologias:</h3>
+              <h3 className="text-xl">Mis Tecnologias:</h3>
             </div>
             <div className='flex justify-center p-4 '>
             <img className='w-[7%] mx-3' src={html} alt="html7"/>

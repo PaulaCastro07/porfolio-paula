@@ -10,10 +10,10 @@ import figma from "../ImagenesPort/figma.png";
 export default function About() {
   return (
 
-    <div className="bg-violet-400 mx-[0px]">
+    <div className="bg-violet-400 p-2">
     <div id='sobremi' className="w-[90%]  mx-auto h-screen md:grid grid-cols-2 justify-center align-center ">
-        <div className="col-span-1 m-auto ">
-            <img className='m-auto w-[60%] rounded-[10px] my-[2%] shadow-black shadow-lg ' src={Foto} alt="foto"/>
+        <div className="col-span-1 ">
+            <img className='mx-auto my-[15%] w-[60%] rounded-[10px] shadow-black shadow-lg ' src={Foto} alt="foto"/>
         </div>
         
         <div className="col-span-1 text-white rounded-[10px] bg-violet-600 text-center justify-center  align-center m-auto w-[90%] h-[50%] md:h-[70%] shadow-black shadow-lg"> 

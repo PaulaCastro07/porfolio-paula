@@ -20,7 +20,7 @@ export default function Carrusel() {
         {
             imagen:htmlImagen,
             titulo:"Titulo 1",
-            tituloChiquito:"chiquitin1",
+            tituloChiquito:"Proyecto 1",
             info:"lorem ipsum dolor sit amet, consectetur adipiscing el aspect, ",
             link:"",
             code:""
@@ -28,7 +28,7 @@ export default function Carrusel() {
         {
             imagen:cafe,
             titulo:"Titulo 2",
-            tituloChiquito:"chiquitin2",
+            tituloChiquito:"Proyecto 2",
             info:"lorem ipsum dolor sit amet, consectetur adipiscing el aspect, ",
             link:"",
             code:""
@@ -36,7 +36,7 @@ export default function Carrusel() {
         {
             imagen:disney,
             titulo:"Titulo 3",
-            tituloChiquito:"chiquitin3",
+            tituloChiquito:"Proyecto 3",
             info:"lorem ipsum dolor sit amet, consectetur adipiscing el aspect, ",
             link:"https://paulacastro07.github.io/disneyPagina/",
             code:""
@@ -44,7 +44,7 @@ export default function Carrusel() {
         {
           imagen:viajes,
           titulo:"Titulo 4",
-          tituloChiquito:"chiquitin4",
+          tituloChiquito:"Proyecto 4",
           info:"lorem ipsum dolor sit amet, consectetur adipiscing el aspect, ",
           link:"",
           code:""

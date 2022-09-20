@@ -111,8 +111,8 @@ export default function Carrusel() {
                             </div>
                               </div>
                               {/* Parte Atras de la tarjeta */}
-                              <div class="absolute my-rotate-y-180 backface-hidden w-full h-full rounded-lg bg-gray-100 overflow-hidden">
-                              <div class="text-center  flex flex-col items-center justify-start mt-4  h-full text-gray-800 p-4 ">
+                              <div class="absolute my-rotate-y-180 backface-hidden w-full h-full rounded-lg bg-violet-800 overflow-hidden">
+                              <div class="text-center bg-violet-400 flex flex-col items-center justify-start mt-4  h-full text-gray-800 p-4 ">
                               <h3 class="text-xl font-semibold mb-4 px-2">
                                   {elemento.titulo}
                               </h3>

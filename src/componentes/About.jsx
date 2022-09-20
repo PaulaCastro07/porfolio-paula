@@ -19,7 +19,7 @@ export default function About() {
         <div className="col-span-1 text-white rounded-[10px] bg-violet-600 text-center justify-center  align-center m-auto w-[90%] h-[55%] md:h-[70%] shadow-black shadow-lg"> 
           <div>
             <h2 className='p-1 text-4xl'>Paula Castro</h2>
-            <p className='p-[12%] text-[100%]'>Soy desarrolladora Web, Tengo 20 años y comencé mis estudios hace 6 meses en distintos bootcamps y cursos. Me sigo formando en la nuevas tecnologias y todas sus actualizaciones. Forme parte de un equipo de desarrolladores webs para negocios, y sus marcas personales. <br/>
+            <p className='p-[12%] text-[100%]'>Soy desarrolladora Web, Tengo 20 años y comencé mis estudios en distintos bootcamps y cursos. Me sigo formando en la nuevas tecnologias y todas sus actualizaciones. Forme parte de un equipo de desarrolladores webs para negocios, y sus marcas personales. <br/>
             </p>
           </div>
           <div>
